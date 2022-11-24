@@ -18,4 +18,6 @@
 
  Exceptions que podem ser evitados se forem tratados e analisados pelo desenvolvedor.
 
-![Código Unchecked](C:\edu.java\Tratamento de Exceções em Java\Unchecked exception\codigo com tratamento.png)
+![codigo com tratamento](https://user-images.githubusercontent.com/106537496/203804472-a06ea499-ecae-42c8-9f81-c2d70a314a4e.png)
+                                                        
+                                             Fonte: Código com tratamento de exceções Unchecked (Runtime).
