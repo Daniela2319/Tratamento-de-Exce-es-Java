@@ -14,10 +14,18 @@
  * **Error**: Usando pela JVM que serve para indicar se existe algum problema de recurso do programa, tornando
  a execução impossível de continuar.
 
-## Unchecked (Runtime)
+#### Unchecked (Runtime)
 
  Exceptions que podem ser evitados se forem tratados e analisados pelo desenvolvedor.
 
-![codigo com tratamento](https://user-images.githubusercontent.com/106537496/203804472-a06ea499-ecae-42c8-9f81-c2d70a314a4e.png)
-                                                        
-                                             Fonte: Código com tratamento de exceções Unchecked (Runtime).
+#### Checked Exception
+
+ Exceptions que devem ser evitados e tratados pelo desenvolvedor para o programa funcionar.
+ 
+#### try, catch, finally
+
+ Cada uma dessas palavras, juntas, definem blocos para o tratamento de exceções.
+ 
+#### throws
+
+ Declara que um método pode lançar uma ou várias exceções.
